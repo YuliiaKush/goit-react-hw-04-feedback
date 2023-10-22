@@ -7,4 +7,5 @@ export const List = styled.ul`
   flex-direction: column;
   margin-left: 40px;
   font-size: 22px;
+  text-align: center;
 `;
